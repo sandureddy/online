@@ -1,0 +1,7 @@
+# this function adds two numbers
+def add (x, y):
+return x + y
+ 
+# this function subracts two numbers
+ def subract(x, y):
+ return x - y
